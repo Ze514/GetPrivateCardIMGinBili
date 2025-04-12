@@ -1,0 +1,2 @@
+# GetPrivateCardIMGinBili
+获取私信官号中小卡片图片
